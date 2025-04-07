@@ -8,6 +8,7 @@ I built MailBot to solve a common problem in small-scale marketing: the hassle o
 - Learn and implement the Gmail API and OAuth authentication
 - Gain hands-on experience deploying on GCP
 - Automate a real-world task and improve productivity
+
 It’s a tool I wish I had earlier — now it's built to help others save time too.
 
 ## This website application provides the following functionality:

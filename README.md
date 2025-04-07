@@ -1,6 +1,6 @@
 # MailBot – Python-Based Email Automation Tool
 
-MailBot is a lightweight, Python-based email automation tool designed to streamline marketing campaigns. It leverages the Gmail API with OAuth 2.0 authentication to ensure secure and efficient bulk email delivery, all deployed seamlessly on Google Cloud Platform (GCP), it enables secure, efficient bulk email delivery with just a few simple steps. Whether you're a startup, freelancer, student, or marketing enthusiast, MailBot helps you reach your audience quickly and effortlessly.
+MailBot is a lightweight, Python-based email automation tool designed to streamline marketing campaigns. It leverages the Gmail API with OAuth 2.0 authentication to ensure secure and efficient bulk email delivery, all deployed seamlessly on Google Cloud Platform (GCP). Whether you're a startup, freelancer, student, or marketing enthusiast, MailBot helps you reach your audience quickly and effortlessly.
 
 ## Why I Built This
 

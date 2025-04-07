@@ -11,7 +11,7 @@ I built MailBot to solve a common problem in small-scale marketing: the hassle o
 
 It’s a tool I wish I had earlier — now it's built to help others save time too.
 
-## This website application provides the following functionality:
+### This website application provides the following functionality:
 
 - Allows users to upload a plain text file containing a list of email recipients.
 - Provides a simple interface to compose the subject and body of the email.

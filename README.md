@@ -5,6 +5,7 @@ MailBot is a lightweight, Python-based email automation tool designed to streaml
 ## Why I Built This
 
 I built MailBot to solve a common problem in small-scale marketing: the hassle of manually sending repetitive emails. During one of my projects, I realized how time-consuming it was to handle outreach using traditional methods. This project was an opportunity to:
+
 - Learn and implement the Gmail API and OAuth authentication
 - Gain hands-on experience deploying on GCP
 - Automate a real-world task and improve productivity
@@ -23,9 +24,9 @@ It’s a tool I wish I had earlier — now it's built to help others save time t
 
 ## ScreenShots
 
-![Image](https://github.com/user-attachments/assets/bccb596b-75ef-485b-9cbd-eb289ae30c11)
-![Image](https://github.com/user-attachments/assets/63fedd48-affc-4d27-9696-6564c8048c4f)
-![Image](https://github.com/user-attachments/assets/5036edb0-c089-4af7-918f-094f2eccaad7)
-![Image](https://github.com/user-attachments/assets/b899353e-69db-4c23-9774-eb60c12dd0d2)
-![Image](https://github.com/user-attachments/assets/63a111b2-c29d-47bd-8293-a0b0735d57d4)
 ![Image](https://github.com/user-attachments/assets/fe77e156-e7e6-494c-aca6-df347c1b4769)
+![Image](https://github.com/user-attachments/assets/bccb596b-75ef-485b-9cbd-eb289ae30c11)
+![Image](https://github.com/user-attachments/assets/3102d54c-f585-4587-b5e2-a6a7a31d68bd)
+![Image](https://github.com/user-attachments/assets/66cc76d3-fb10-4de9-bc2a-db6ba793046f)
+![Image](https://github.com/user-attachments/assets/63fedd48-affc-4d27-9696-6564c8048c4f)
+![Image](https://github.com/user-attachments/assets/63a111b2-c29d-47bd-8293-a0b0735d57d4)
